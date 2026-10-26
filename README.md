@@ -1,6 +1,15 @@
-\# AI Training Week 1 - Git Workflow
+AI Training Week 1
 
+This repository contains Git workflow practice and data visualization charts.
 
+Charts
 
-This repository contains Git workflow practice.
+- Bar chart
+- Histogram
+- Scatter plot
+- Line chart
 
+Files
+
+- "charts.py" - Python script to generate charts.
+- ".gitignore" - Files and folders excluded from Git.
